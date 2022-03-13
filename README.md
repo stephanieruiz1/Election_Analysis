@@ -27,6 +27,6 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 - Diana DeGette received "73.8%" of the vote and "270,892" number of votes.
 ![election_analysis](election_analysis.png)
 ## Summary
-    - Diana DeGette received "73.8%" of the vote and "270,892" number of votes.
-    The possibilities to change the code are endless. A few of them will be adding the gender, age group and ethnicity. 
+ In conclusion, Diana DeGette received "73.8%" of the vote and "270,892" number of votes.
+ The possibilities to change the code are endless. A few of them will be adding the gender, age group and ethnicity. The code can be modified depending on what are you looking for. Also, you can use this to analyze a federal election.
     
